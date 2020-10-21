@@ -1,12 +1,12 @@
 # park_ML
 
-# [Основы машинного обучения](https://park.mail.ru/curriculum/program/discipline/1047/) 
+# [Основы машинного обучения](https://park.mail.ru/curriculum/program/discipline/1047/)
 
 ## Программа курса
 * [Введение в анализ данных и машинное обучение](https://github.com/vadim0912/park_ML/tree/master/lecture01)
 * Задачи классификации и регрессии
 * Оценка качества моделей и работа с признаками
-* Обучение без учителя
+* [Обучение без учителя](https://github.com/vadim0912/park_ML/tree/master/lecture04)
 * Ансамбли моделей
 * Работа с текстовыми данными
 * Рекомендательные системы
