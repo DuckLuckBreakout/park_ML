@@ -4,11 +4,11 @@
 
 ## Программа курса
 * [Введение в анализ данных и машинное обучение](https://github.com/vadim0912/park_ML/tree/master/lecture01)
-* Задачи классификации и регрессии
+* [Задачи классификации и регрессии](https://github.com/vadim0912/park_ML/tree/master/lecture02)
 * Оценка качества моделей и работа с признаками
 * [Обучение без учителя](https://github.com/vadim0912/park_ML/tree/master/lecture04)
-* [Ансамбли моделей](https://github.com/vadim0912/park_ML/tree/master/lecture04)
-* Работа с текстовыми данными
+* [Ансамбли моделей](https://github.com/vadim0912/park_ML/tree/master/lecture05)
+* [Работа с текстовыми данными](https://github.com/vadim0912/park_ML/tree/master/lecture06)
 * Рекомендательные системы
 * Анализ графов
 * Работа с гео-данными
