@@ -9,7 +9,7 @@
 * [Обучение без учителя](https://github.com/vadim0912/park_ML/tree/master/lecture04)
 * [Ансамбли моделей](https://github.com/vadim0912/park_ML/tree/master/lecture05)
 * [Работа с текстовыми данными](https://github.com/vadim0912/park_ML/tree/master/lecture06)
-* Рекомендательные системы
+* [Рекомендательные системы](https://github.com/vadim0912/park_ML/tree/master/lecture07)
 * Анализ графов
 * Работа с гео-данными
 * АВ тесты, проведение экспериментов
